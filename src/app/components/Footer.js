@@ -16,34 +16,34 @@ function Footer() {
       <div className="w-[25%] flex justify-center items-center flex-col">
         <img src="/footer_logo.svg" className="size-36" />
         <div className="w-full flex justify-center items-center text-white mt-28 gap-4">
-          <FaFacebookSquare className="size-6" />
-          <PiInstagramLogoFill className="size-6" />
-          <FaLinkedin className="size-6" />
-          <FaYoutube className="size-6" />
+          <FaFacebookSquare className="size-6 cursor-pointer hover:scale-110" />
+          <PiInstagramLogoFill className="size-6 cursor-pointer hover:scale-110" />
+          <FaLinkedin className="size-6 cursor-pointer hover:scale-110" />
+          <FaYoutube className="size-6 cursor-pointer hover:scale-110" />
         </div>
       </div>
       <div className="w-[25%] flex justify-center px-10 flex-col">
         <h1 className="text-white font-bold text-base lg:text-xl">QUICK ACCESS</h1>
-        <ul className="text-white pt-5 text-sm xl:text-base ">
-          <li className="pb-3"> Home</li>
-          <li className="pb-3">About us</li>
-          <li className="pb-3">Contact</li>
-          <li className="pb-3">Study Abroad</li>
-          <li className="pb-3">Study India</li>
-          <li className="pb-3">Job Abroad</li>
-          <li className="pb-3">Migration</li>
+        <ul className="pt-5 text-sm xl:text-base  ">
+          <li className="pb-3 text-white hover:underline  cursor-pointer "> Home</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">About us</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">Contact</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">Study Abroad</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">Study India</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">Job Abroad</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">Migration</li>
         </ul>
       </div>
       <div className="w-[25%] flex justify-center px-10 flex-col">
         <h1 className="text-white font-bold text-base lg:text-xl">STUDY</h1>
-        <ul className="text-white pt-5 text-sm xl:text-base ">
-          <li className="pb-3"> MBBS</li>
-          <li className="pb-3">BSc Nursing</li>
-          <li className="pb-3">GNM</li>
-          <li className="pb-3">Paramedical</li>
-          <li className="pb-3">Pharmacy</li>
-          <li className="pb-3">MBA</li>
-          <li className="pb-3">MSW</li>
+        <ul className=" pt-5 text-sm xl:text-base ">
+          <li className="pb-3 text-white hover:underline  cursor-pointer"> MBBS</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">BSc Nursing</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">GNM</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">Paramedical</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">Pharmacy</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">MBA</li>
+          <li className="pb-3 text-white hover:underline  cursor-pointer">MSW</li>
         </ul>
       </div>
       <div className="w-[25%] flex justify-center px-4 xl:px-10 flex-col gap-y-[26px] lg:gap-y-8">

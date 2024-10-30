@@ -27,14 +27,14 @@ function Navbar() {
       </div>
     </div>
     <div className="bg-[#1C1C1C] w-full h-[65px] flex justify-center items-center px-6 ">
-      <ul className=" w-full flex justify-evenly items-center" >
-        <li className="text-white text-[13px] lg:text-[18px] font-light">HOME</li>
-        <li className="text-white text-[13px] lg:text-[18px] font-light">STUDY ABROAD</li>
-        <li className="text-white text-[13px] lg:text-[18px] font-light">STUDY INDIA</li>
-        <li className="text-white text-[13px] lg:text-[18px] font-light">JOB ABROAD</li>
-        <li className="text-white text-[13px] lg:text-[18px] font-light">MIGRATION</li>
-        <li className="text-white text-[13px] lg:text-[18px] font-light">ABOUT</li>
-        <li className="text-white text-[17px] font-light">CONTACT</li>
+      <ul className=" w-full flex justify-evenly items-center cursor-pointer" >
+        <li className="text-white hover:text-gray-300 hover:scale-110 text-[13px] lg:text-[18px] font-light ">HOME</li>
+        <li className="text-white hover:text-gray-300 hover:scale-110  text-[13px] lg:text-[18px] font-light">STUDY ABROAD</li>
+        <li className="text-white hover:text-gray-300 hover:scale-110 text-[13px] lg:text-[18px] font-light">STUDY INDIA</li>
+        <li className="text-white hover:text-gray-300 hover:scale-110 text-[13px] lg:text-[18px] font-light">JOB ABROAD</li>
+        <li className="text-white hover:text-gray-300 hover:scale-110 text-[13px] lg:text-[18px] font-light">MIGRATION</li>
+        <li className="text-white hover:text-gray-300 hover:scale-110 text-[13px] lg:text-[18px] font-light">ABOUT</li>
+        <li className="text-white hover:text-gray-300 hover:scale-110 text-[17px] font-light">CONTACT</li>
        
       </ul>
     </div>
