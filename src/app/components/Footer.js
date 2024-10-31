@@ -12,17 +12,18 @@ function Footer() {
   return (
    <div>
     
-    <div className="w-full h-[400px] lg:h-[500px] bg-[#1F2437] flex">
-      <div className="w-[25%] flex justify-center items-center flex-col">
-        <img src="/footer_logo.svg" className="size-36" />
-        <div className="w-full flex justify-center items-center text-white mt-28 gap-4">
+    <div className="w-full h-full sm:h-[400px] lg:h-[500px] bg-[#1F2437] flex flex-col sm:flex-row py-6 sm:py-0 gap-y-10 sm:gap-y-0 ">
+      <div className="w-full sm:w-[25%] flex justify-center items-start sm:items-center flex-col order-last sm:order-none px-10 sm:px-0">
+        <img src="/footer_logo.svg" className="size-24 sm:size-36" />
+        <div className="w-full flex justify-start sm:justify-center items-center text-white mt-8 sm:mt-28 gap-4">
           <FaFacebookSquare className="size-6 cursor-pointer hover:scale-110" />
           <PiInstagramLogoFill className="size-6 cursor-pointer hover:scale-110" />
           <FaLinkedin className="size-6 cursor-pointer hover:scale-110" />
           <FaYoutube className="size-6 cursor-pointer hover:scale-110" />
         </div>
       </div>
-      <div className="w-[25%] flex justify-center px-10 flex-col">
+     <div className=" w-full sm:w-[50%] flex">
+     <div className="w-[50%] flex justify-center  ps-10 flex-col order-first sm:order-none">
         <h1 className="text-white font-bold text-base lg:text-xl">QUICK ACCESS</h1>
         <ul className="pt-5 text-sm xl:text-base  ">
           <li className="pb-3 text-white hover:underline  cursor-pointer "> Home</li>
@@ -34,7 +35,7 @@ function Footer() {
           <li className="pb-3 text-white hover:underline  cursor-pointer">Migration</li>
         </ul>
       </div>
-      <div className="w-[25%] flex justify-center px-10 flex-col">
+      <div className="w-[50%] flex justify-center ps-10 flex-col">
         <h1 className="text-white font-bold text-base lg:text-xl">STUDY</h1>
         <ul className=" pt-5 text-sm xl:text-base ">
           <li className="pb-3 text-white hover:underline  cursor-pointer"> MBBS</li>
@@ -46,7 +47,8 @@ function Footer() {
           <li className="pb-3 text-white hover:underline  cursor-pointer">MSW</li>
         </ul>
       </div>
-      <div className="w-[25%] flex justify-center px-4 xl:px-10 flex-col gap-y-[26px] lg:gap-y-8">
+     </div>
+      <div className="w-full sm:w-[25%] flex justify-center px-10 sm:px-4 xl:px-10 flex-col gap-y-[26px] lg:gap-y-8">
         <h1 className="text-white font-bold text-base lg:text-xl">GET IN TOUCH</h1>
         <div className="w-full flex  items-center">
           <FaPhoneAlt className="size-4 text-white" />
@@ -56,7 +58,7 @@ function Footer() {
         </div>
         <div className="w-full flex items-center">
           <HiMail className="size-6 text-white" />
-          <p className=" text-white text-xs xl:text-base ps-0 lg:ps-4 ">
+          <p className=" text-white text-xs xl:text-base ps-3 sm:ps-0 lg:ps-4 ">
             mail@hochinternational.com
           </p>
         </div>
@@ -74,9 +76,9 @@ function Footer() {
         </div>
       </div>
     </div>
-    <div className="w-full h-20 bg-white flex justify-between items-center px-20">
-        <p className="text-black text-base xl:text-xl">Copyright 2024 - Hoch International</p>
-        <p className="text-black text-base xl:text-xl">Powered By <span className="font-[700] antonio " >MCABEE DIGITAL</span> </p>
+    <div className="w-full h-10 md:h-20 bg-white flex justify-between items-center px-4 md:px-20">
+        <p className="text-black text-[10px] sm:text-xs md:text-base xl:text-xl">Copyright 2024 - Hoch International</p>
+        <p className="text-black text-[10px] sm:text-xs md:text-base xl:text-xl">Powered By <span className="font-[700] antonio " >MCABEE DIGITAL</span> </p>
 
         
 
