@@ -160,7 +160,7 @@ function Section2() {
                   className="rounded-[10px] md:rounded-none"
                 />
               </div>
-              <h1 className="text-black font-bold text-sm sm:text-lg xl:text-2xl text-center mt-3">
+              <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3">
                 Jobs in Abroad
               </h1>
               <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
@@ -181,7 +181,7 @@ function Section2() {
                   className="rounded-[10px] md:rounded-none"
                 />
               </div>
-              <h1 className="text-black font-bold text-sm sm:text-lg xl:text-2xl text-center mt-3">
+              <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3">
                 Admissions in India
               </h1>
               <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4  px-16 sm:px-20 md:px-4 2xl:px-0">
@@ -202,7 +202,7 @@ function Section2() {
                   className="rounded-[10px] md:rounded-none"
                 />
               </div>
-              <h1 className="text-black font-bold text-sm sm:text-lg xl:text-2xl text-center mt-3">
+              <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3">
                 Denmark Migration
               </h1>
               <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
@@ -223,7 +223,7 @@ function Section2() {
                   className="rounded-[10px] md:rounded-none"
                 />
               </div>
-              <h1 className="text-black font-bold text-sm sm:text-lg xl:text-2xl text-center mt-3">
+              <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3 ">
                 Study Nursing for FREE
               </h1>
               <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
