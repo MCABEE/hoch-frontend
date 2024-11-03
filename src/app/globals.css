@@ -1,16 +1,25 @@
+@font-face {
+    font-family: 'Antonia H2';
+    src: url('/path-to-your-font/Antonia-H2-Regular.woff2') format('woff2'),
+         url('/path-to-your-font/Antonia-H2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* @layer base {
-    html{
-        font-family: "callibri";
-    }
+
+/* * {
+    font-family: Calibri, sans-serif;
 } */
 
-
-* {
-    font-family: Calibri, sans-serif;
+.antonio {
+    font-family: 'Antonia H2', sans-serif;
 }
-.antonio{
-    font-family: "Antonio", sans-serif;
-}
+.bg-home{
+    background-image: url('/banner.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
