@@ -17,7 +17,7 @@ function Contactus() {
             <p className=" w-[250px] md:w-full md:text-[24px] text-lg text-black leading-6 px-5 pt-3">
               Have something you want to share with us?
             </p>
-            <p className="w-[300px] md:w-full md:text-xl text-sm font-light leading-[18px] text-black px-5 pt-3">
+            <p className="w-[300px] md:w-full md:text-xl text-sm font-light leading-[18px] text-black px-5 py-4 pb-7 lg:py-0 lg:pb-0">
               You have the power to make us better, and of course, we consider
               the words of encouragement as well. Our customer support team is
               always available to attend you.
@@ -82,7 +82,7 @@ function Contactus() {
               placeholder="How can we help you?"
               className="w-full h-[130px] border border-[#BBBBBB] rounded-[15px]  p-3 text-black placeholder:text-black "
             ></textarea>
-            <button className="w-full h-[45px] bg-[#1982FE] flex justify-center items-center rounded-2xl text-[16px] font-bold text-white mb-4 ">
+            <button className="w-full h-[45px] bg-[#1982FE] flex justify-center items-center rounded-2xl text-[16px] font-bold text-white mb-4 hover:bg-[#1984fed3] hover:scale-105 ">
               Submit
             </button>
           </div>
@@ -98,7 +98,7 @@ function Contactus() {
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
 
-        <div className="w-full xl:h-[1/2] px-10">
+        <div className="w-full xl:h-[1/2] px-2 lg:px-10">
           <div className="py-4">
             <h1 className="text-black font-bold text-2xl pb-2 ">
               Our Location
