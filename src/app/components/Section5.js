@@ -10,9 +10,8 @@ function Section5() {
          </div>
         </div>
         <div className= 'w-full md:w-[60%] h-full flex justify-center  flex-col px-4 md:px-8 '>
-            <h1 className='text-black font-bold text-2xl xl:text-4xl mt-4 md:mt-16 '>Study Nursing for Free and Secure a Bright Future with Guaranteed Job Placement!</h1>
-            <p className='text-black text-xs 2xl:text-base font-light  leading-5 xl:leading-7 pt-2 mt-2 xl:mt-4 pe-0 2xl:pe-14'>we are offering a life-changing opportunity for financially disadvantaged students to pursue their dreams of becoming a nurse – absolutely free of cost. With our unique initiative, you can complete your nursing education without worrying about tuition fees. In return, all we ask is for you to work with one of our partner hospitals for a specific period after graduation, gaining hands-on experience while securing a stable job.<br/>
-            Take advantage of this amazing opportunity and step confidently into a rewarding nursing career!</p>
+            <h1 className='text-black font-bold text-2xl xl:text-4xl mt-4 md:mt-16 '>Free Nursing Course with Job Placement for Financially Challenged Students</h1>
+            <p className='text-black text-xs xl:text-base font-light  leading-5 xl:leading-7 pt-2 mt-2 xl:mt-4 pe-0 2xl:pe-14'>Our unique nursing program offers free education for financially challenged students. Participants complete the course at no cost and commit to a short-term work placement afterward. This initiative not only enables aspiring nurses to gain essential skills but also provides assured job placement support, helping them build a secure and successful career in healthcare.</p>
             <p className='text-[#1982FE] text-lg xl:text-xl mt-2 xl:mt-6'>Learn More</p>
         </div>
     </div>

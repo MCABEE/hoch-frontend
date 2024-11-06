@@ -161,11 +161,10 @@ function Section2() {
                 />
               </div>
               <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3">
-                Jobs in Abroad
+              Careers Abroad
               </h1>
-              <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
-                Open your mind to a whole new world, experience world-class
-                education, and develop a global perspective.
+              <p className="md:h-[130px] lg:h-[128px] xl:h-[105px] text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
+              Expert guidance and support for job placements abroad, from documentation to final approval.
               </p>
               <p className="text-[#1982FE] text-base xl:text-xl text-center cursor-pointer hover:text-blue-700 pb-5">
                 Enquire Now
@@ -182,11 +181,10 @@ function Section2() {
                 />
               </div>
               <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3">
-                Admissions in India
+              India Admissions
               </h1>
-              <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4  px-16 sm:px-20 md:px-4 2xl:px-0">
-                Open your mind to a whole new world, experience world-class
-                education, and develop a global perspective.
+              <p className="md:h-[130px] lg:h-[128px] xl:h-[105px] text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4  px-16 sm:px-20 md:px-4 2xl:px-0">
+              Secure your place in leading Indian institutions with our seat booking and admission support.
               </p>
               <p className="text-[#1982FE] text-base xl:text-xl text-center cursor-pointer hover:text-blue-700 pb-5">
                 Enquire Now
@@ -203,11 +201,10 @@ function Section2() {
                 />
               </div>
               <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3">
-                Denmark Migration
+              Denmark Migration
               </h1>
-              <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
-                Open your mind to a whole new world, experience world-class
-                education, and develop a global perspective.
+              <p className="md:h-[130px] lg:h-[128px] xl:h-[105px] text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
+              Open your mind to a whole new world, experience world-class education, and develop a global perspective.
               </p>
               <p className="text-[#1982FE] text-base xl:text-xl text-center cursor-pointer hover:text-blue-700 pb-5">
                 Enquire Now
@@ -224,11 +221,10 @@ function Section2() {
                 />
               </div>
               <h1 className="text-black font-bold text-sm sm:text-lg md:text-base xl:text-2xl text-center mt-3 ">
-                Study Nursing for FREE
+              Free Nursing Education 
               </h1>
-              <p className="text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
-                Open your mind to a whole new world, experience world-class
-                education, and develop a global perspective.
+              <p className="md:h-[130px] lg:h-[128px] xl:h-[105px] text-black text-[12px] 2xl:text-[16px] leading-5 sm:leading-6 text-center py-4 px-16 sm:px-20 md:px-4 2xl:px-0">
+              Enroll in a no-fee nursing program with a short-term work commitment, ideal for financially limited students.
               </p>
               <p className="text-[#1982FE] text-base xl:text-xl text-center cursor-pointer hover:text-blue-700 pb-5">
                 Enquire Now

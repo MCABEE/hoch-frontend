@@ -131,12 +131,8 @@ function Contactus() {
         </div>
       </div>
       <div className="w-full h-[31px] px-5 md:px-10 flex items-center bg-white justify-between">
-        <p className="font-light text-xs">
-          Copyright 2024 - Hoch International
-        </p>
-        <p className="font-light text-xs ">
-          Powered by <span className="font-bold">MCABEE DIGITAL</span>
-        </p>
+      <p className="text-black text-[10px] sm:text-xs md:text-base xl:text-xl">Copyright 2024 - Hoch International</p>
+      <p className="text-black text-[10px] sm:text-xs md:text-base xl:text-xl">Powered By <span className="font-[700] antonio " >MCABEE DIGITAL</span> </p>
       </div>
     </div>
   );

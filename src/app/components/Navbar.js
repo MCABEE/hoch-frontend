@@ -173,11 +173,11 @@ function Navbar() {
   // Navigation links with text and URL
   const navItems = [
     { name: "HOME", link: "/" },
-    { name: "STUDY ABROAD", link: "/study-abroad" },
-    { name: "STUDY INDIA", link: "/study-india" },
-    { name: "JOB ABROAD", link: "/job-abroad" },
-    { name: "MIGRATION", link: "/migration" },
-    { name: "ABOUT", link: "/about" },
+    { name: "STUDY ABROAD", link: "" },
+    { name: "STUDY INDIA", link: "" },
+    { name: "JOB ABROAD", link: "" },
+    { name: "MIGRATION", link: "" },
+    { name: "ABOUT", link: "" },
     { name: "CONTACT", link: "/contact" },
   ];
 
