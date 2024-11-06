@@ -15,7 +15,7 @@ function Section6() {
           <img src="/fortis.svg" className="size-20  lg:size-48" />
           <img
             src="/manipal.svg"
-            className="size-40  lg:w-[340px] pt-5 xl:pt-10"
+            className="size-40  lg:w-[300px]  pt-5 xl:pt-10"
           />
         </div>
         <div className="w-full sm:w-[35%] flex  justify-evenly sm:justify-around  items-center ">
