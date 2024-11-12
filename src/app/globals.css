@@ -23,3 +23,20 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .bg-social{
+    background-image: url('/freeNursing.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  /* Times New Roman */
+
+  
+  .tinos-bold {
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+ 
+  
