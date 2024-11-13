@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Nursing from '../components/social_initiative/Nursing'
 import Discription from '../components/social_initiative/Discription'
+import MainFooter from '../components/MainFooter'
 
 function page() {
   return (
@@ -15,10 +16,7 @@ function page() {
 
 
       </div>
-      {/* <div className='px-20'>
-      <Discription/>
-
-      </div> */}
+      <MainFooter/>
       
     </div>
   )

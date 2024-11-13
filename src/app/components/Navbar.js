@@ -190,19 +190,19 @@ function Navbar() {
         </div>
 
         {/* Contact Information - hidden on small screens */}
-        <div className="hidden md:flex w-[80%] md:w-[70%] xl:w-[60%] justify-center items-center">
-          <div className="flex items-center space-x-6">
+        <div className="hidden md:flex w-[80%] md:w-[70%] xl:w-[60%] 3xl:w-[80%] justify-center items-center">
+          <div className="flex items-center space-x-6 3xl:space-x-48 ">
             <div className="flex items-center">
-              <HiMail className="size-4 xl:size-6" />
-              <p className="text-black text-xs lg:text-lg ps-4">mail@hochinternational.com</p>
+              <HiMail className="size-4 xl:size-6 3xl:size-8" />
+              <p className="text-black text-xs lg:text-lg 3xl:text-2xl ps-4">mail@hochinternational.com</p>
             </div>
             <div className="flex items-center">
               <FaPhoneAlt className="size-4 xl:size-6" />
-              <p className="text-black text-xs lg:text-lg ps-4">91-90812 34567 <br /> 91-90809 87654</p>
+              <p className="text-black text-xs lg:text-lg 3xl:text-2xl ps-4">91-90812 34567 <br /> 91-90809 87654</p>
             </div>
             <div className="flex items-center">
               <IoLogoWhatsapp className="size-4 xl:size-7" />
-              <p className="text-black text-xs lg:text-lg ps-4">91-90812 34567</p>
+              <p className="text-black text-xs lg:text-lg 3xl:text-2xl ps-4">91-90812 34567</p>
             </div>
           </div>
         </div>
@@ -219,7 +219,7 @@ function Navbar() {
       <div className="hidden md:flex bg-[#1C1C1C] w-full h-[65px] justify-center items-center px-6">
         <ul className="w-full flex justify-evenly items-center cursor-pointer">
           {navItems.map((item) => (
-            <li key={item.name} className="text-white hover:text-gray-300 hover:scale-110 text-[13px] lg:text-[18px] font-light">
+            <li key={item.name} className="text-white hover:text-gray-300 hover:scale-110 text-[13px] lg:text-[18px] 3xl:text-[24px] font-light">
               <a href={item.link}>{item.name}</a>
             </li>
           ))}

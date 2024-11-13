@@ -1,6 +1,7 @@
 import React from 'react'
 import Contactus from '../components/Contactus'
 import Navbar from '../components/Navbar'
+import MainFooter from '../components/MainFooter'
 
 function page() {
   return (
@@ -10,6 +11,7 @@ function page() {
         </div>
         <div>
         <Contactus/>
+        <MainFooter/>
         </div>
        
     </div>

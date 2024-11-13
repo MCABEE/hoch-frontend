@@ -3,10 +3,10 @@ import React from "react";
 function Section6() {
   return (
     <div className="w-full bg-white ">
-      <h1 className="text-center text-black font-bold text-3xl lg:text-4xl">
+      <h1 className="text-center text-black font-bold text-3xl  lg:text-4xl 3xl:text-5xl">
         Our Partnering Hospitals
       </h1>
-      <p className="pt-4 text-center text-black text-lg lg:text-xl 2xl:text-2xl font-light px-4 md:px-0">
+      <p className="pt-4 text-center text-black text-lg lg:text-xl 2xl:text-2xl 3xl:text-3xl font-light px-4 md:px-0">
         Partnering Hospitals for Training and Job Placement Opportunities
       </p>
       <div className="w-full h-full sm:h-[190px] lg:h-[230px] flex flex-col sm:flex-row justify-evenly ">

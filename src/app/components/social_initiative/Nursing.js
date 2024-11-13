@@ -79,34 +79,34 @@ function Nursing() {
 
 
      <div className="w-full  md:hidden flex py-6 px-2">
-     <div className="  w-full rounded-3xl bg-white flex flex-col gap-3 2xl:gap-5 px-4 xl:px-8 2xl:px-10 py-4 lg:py-6 2xl:py-10 ">
-    <h1 className="text-[26px] xl:text-[36px] text-black font-bold lg:pb-1 2xl:pb-3">
+     <div className="  w-full rounded-3xl bg-white flex flex-col gap-3 2xl:gap-5 px-4 xl:px-8 2xl:px-10 py-8 lg:py-6 2xl:py-10 ">
+    <h1 className="text-[21px] sm:text-[26px] xl:text-[36px] text-black font-bold lg:pb-1 2xl:pb-3">
       Apply Now
     </h1>
     <input
       type="text"
       placeholder="Full name"
-      className="w-full h-[35px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black "
+      className="w-full h-[45px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black "
     />
 
     <input
       type="text"
       placeholder="Mobile Number"
-      className="w-full h-[35px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
+      className="w-full h-[45px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
     />
     <input
       type="text"
       placeholder="Email ID"
-      className="w-full h-[35px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
+      className="w-full h-[45px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
     />
     <input
       type="text"
       placeholder="Address with Pincode"
-      className="w-full h-[35px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
+      className="w-full h-[45px] lg:h-[40px] xl:h-[50px] rounded-2xl placeholder:text-sm xl:placeholder:text-base placeholder:font-light px-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
     />
     <select
       name="Qualification"
-      className="w-full h-[35px] lg:h-[40px] xl:h-[50px] rounded-2xl text-sm xl:text-base  pl-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
+      className="w-full h-[45px] lg:h-[40px] xl:h-[50px] rounded-2xl text-sm xl:text-base  pl-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
     >
       <option selected disabled className="text-sm xl:text-base">
         Qualification
@@ -120,11 +120,7 @@ function Nursing() {
     </button>
   </div>
      </div>
-     <div className="w-full h-10 md:h-20 bg-white flex justify-between items-center">
-        <p className="text-black text-[10px] sm:text-xs md:text-base xl:text-xl">Copyright 2024 - Hoch International</p>
-        <p className="text-black text-[10px] sm:text-xs md:text-base xl:text-xl">Powered By <span className="font-[700] antonio " >MCABEE DIGITAL</span> </p>
-
-        </div>
+    
  </div>
   );
 }

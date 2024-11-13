@@ -37,6 +37,15 @@
     font-weight: 700;
     font-style: normal;
   }
+
+
+
   
- 
-  
+  .playfair-display-uniquifier{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+  }
+
+
