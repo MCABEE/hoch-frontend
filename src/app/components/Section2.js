@@ -74,7 +74,7 @@ function Section2() {
 
             <div className="w-[90%] md:w-[360px] xl:w-[280px] 3xl:w-[360px] h-full bg-white rounded-[10px] border-[1px] border-gray-300 shadow-xl hover:scale-105 ease-in-out duration-300 mx-auto">
               
-             <Link href={'/social_initiative'}>
+             <Link href={'/social-initiative'}>
              <div className="flex justify-center items-center py-3 md:py-0 px-3 sm:px-0">
                 <img
                   src="/card4.svg"
