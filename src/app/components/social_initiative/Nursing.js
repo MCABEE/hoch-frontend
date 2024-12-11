@@ -1,5 +1,5 @@
 import React from "react";
-import Discription from "./Discription";
+import Discription from "./Description";
 
 function Nursing() {
   return (
@@ -55,14 +55,16 @@ function Nursing() {
     />
     <select
       name="Qualification"
+       defaultValue="Qualification"
       className="w-full h-[35px] lg:h-[40px] xl:h-[50px] rounded-2xl text-sm xl:text-base  pl-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
     >
-      <option selected disabled className="text-sm xl:text-base">
+      {/* <option selected disabled className="text-sm xl:text-base">
         Qualification
-      </option>
-      <option>BSC</option>
-      <option>MSC</option>
-      <option>PHD</option>
+      </option> */}
+      <option>MBBS</option>
+      <option>BSC Nursing</option>
+      <option>GNM Nursing</option>
+      <option>Others</option>
     </select>
     <button className="w-full h-[40px] xl:h-[50px] rounded-2xl bg-[#1982FE] text-white">
       Submit
@@ -106,14 +108,17 @@ function Nursing() {
     />
     <select
       name="Qualification"
+      
+      defaultValue="Qualification"
       className="w-full h-[45px] lg:h-[40px] xl:h-[50px] rounded-2xl text-sm xl:text-base  pl-4 border-[1px] border-[#BBBBBB] placeholder:text-black"
     >
-      <option selected disabled className="text-sm xl:text-base">
+      {/* <option selected disabled className="text-sm xl:text-base">
         Qualification
-      </option>
-      <option>BSC</option>
-      <option>MSC</option>
-      <option>PHD</option>
+      </option> */}
+      <option>MBBS</option>
+      <option>BSC Nursing</option>
+      <option>GNM Nursing</option>
+      <option>Others</option>
     </select>
     <button className="w-full h-[40px] xl:h-[50px] rounded-2xl bg-[#1982FE] text-white">
       Submit

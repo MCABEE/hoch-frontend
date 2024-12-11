@@ -176,13 +176,14 @@ function Navbar() {
     { name: "STUDY ABROAD", link: "" },
     { name: "STUDY INDIA", link: "" },
     { name: "JOB ABROAD", link: "" },
-    { name: "MIGRATION", link: "" },
+    { name: "MIGRATION", link: "/career-in-denmark" },              
+
     { name: "ABOUT", link: "" },
     { name: "CONTACT", link: "/contact" },
   ];
 
   return (
-    <div className="w-full">
+    <div className="w-full bg-white">
       {/* Header section */}
       <div className="w-full px-8 xl:px-12 flex justify-between items-center">
         <div className="w-[20%] md:w-[30%] xl:w-[45%] p-2">

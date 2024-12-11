@@ -6,8 +6,7 @@ function Section5() {
     <div className="w-full h-full md:h-[540px] 3xl:h-[651px] bg-[#E6EBF0] flex flex-col md:flex-row px-2 md:px-11 xl:px-28 py-3 md:py-0">
       <div className="w-full md:w-[40%] flex justify-center flex-col mt-2  ">
         <div className="w-full lg:w-[310px] 3xl:w-[410px] h-[60px] text-xs md:text-2xl bg-[#1F2437] text-white flex justify-center items-center">
-          Our Social Initiative
-        </div>
+Free Nursing Education        </div>
         <div>
         <Link href={'/social-initiative'}>
           <img src="/students.svg" />
@@ -22,7 +21,7 @@ function Section5() {
           Students
         </h1>
         </Link>
-        <p className="text-black text-xs sm:text-base 3xl:text-3xl font-light  leading-[14px] sm:leading-5 xl:leading-7 3xl:leading-9 pt-2 mt-2 xl:mt-4 pe-0 2xl:pe-14">
+        <p className="text-black text-base 3xl:text-3xl font-light  leading-[18px] sm:leading-5 xl:leading-7 3xl:leading-9 pt-2 mt-2 xl:mt-4 pe-0 2xl:pe-14">
           Our unique nursing program offers free education for financially
           challenged students. Participants complete the course at no cost and
           commit to a short-term work placement afterward. This initiative not
