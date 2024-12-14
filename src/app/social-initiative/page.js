@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Nursing from '../components/social_initiative/Nursing'
-import Discription from '../components/social_initiative/Discription'
+import Description from '../components/social_initiative/Description'
 import MainFooter from '../components/MainFooter'
 
 function page() {

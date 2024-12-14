@@ -3,7 +3,7 @@ import React from "react";
 function Section6() {
   return (
     <div className="w-full bg-white ">
-      <h1 className="text-center text-black font-bold text-3xl  lg:text-4xl 3xl:text-5xl">
+      <h1 className="text-center text-black font-bold text-2xl sm:text-3xl  lg:text-4xl 3xl:text-5xl pt-4">
         Our Partnering Hospitals
       </h1>
       <p className="pt-4 text-center text-black text-lg lg:text-xl 2xl:text-2xl 3xl:text-3xl font-light px-4 md:px-0">

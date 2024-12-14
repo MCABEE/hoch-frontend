@@ -74,11 +74,12 @@ function Contactus() {
                 />
                 <select
                   name="Select Service"
+                   defaultValue="Select Service"
                   className="w-full h-[45px] 3xl:h-[50px] border border-[#BBBBBB] rounded-[15px] ps-3  text-black "
                 >
-                  <option disabled selected className="font-light">
+                  {/* <option disabled selected className="font-light">
                     Select Service
-                  </option>
+                  </option> */}
                   <option value="volvo">Jobs Abroad</option>
                   <option value="volvo">Study Abroad</option>
                   <option value="saab">Admissions in India</option>
